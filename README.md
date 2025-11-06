@@ -145,8 +145,7 @@ Customer-Behavior-Analytics---Retention-Strategy/
 ├── components.json               # Shadcn/ui configuration
 ├── next.config.mjs               # Next.js configuration
 ├── package.json                  # Dependencies and scripts
-├── postcss.config.mjs            # PostCSS configuration
-├── tailwind.config.js            # Tailwind CSS configuration
+├── postcss.config.mjs            # PostCSS & Tailwind CSS configuration
 └── tsconfig.json                 # TypeScript configuration
 ```
 
